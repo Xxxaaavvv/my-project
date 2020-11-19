@@ -1,14 +1,9 @@
-# my-project  LOCAL
+# my-projectv -- GITHUB
 
 
 
-
-
-
-edition locale
-edition locale
-edition locale
-edition locale
-edition locale
-edition locale
+---   Edition depuis github
+---   Edition depuis github
+---   Edition depuis github
+---   Edition depuis github
 
